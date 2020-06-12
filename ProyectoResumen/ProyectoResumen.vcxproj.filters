@@ -18,5 +18,40 @@
     <ClCompile Include="ProyectoResumen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cArticuloVenta.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cVenta.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cListaT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cArticulo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cCliente.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cArticulo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cArticuloLimpieza.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cArticuloElectrico.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cArticuloVenta.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cVenta.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cListaT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

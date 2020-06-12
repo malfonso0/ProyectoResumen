@@ -139,7 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cArticulo.cpp" />
+    <ClCompile Include="cArticuloVenta.cpp" />
+    <ClCompile Include="cListaT.cpp" />
+    <ClCompile Include="cVenta.cpp" />
     <ClCompile Include="ProyectoResumen.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cArticulo.h" />
+    <ClInclude Include="cArticuloElectrico.h" />
+    <ClInclude Include="cArticuloLimpieza.h" />
+    <ClInclude Include="cArticuloVenta.h" />
+    <ClInclude Include="cCliente.h" />
+    <ClInclude Include="cListaT.h" />
+    <ClInclude Include="cVenta.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
